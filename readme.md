@@ -1,5 +1,7 @@
 ## HAI-RC카를 이용한 자율주행
 
+<img width="239" alt="캡처" src="https://user-images.githubusercontent.com/48755297/99757942-d746cd00-2b33-11eb-83cf-9f90e8f4231e.PNG">
+
 ### Members
 - 박재성
 - 권현수
@@ -7,6 +9,8 @@
 - 이상목
 - 양영우
 - 윤동준
+
+
 
 ### Project 
 RC카가 직접 만든 바닥의 트랙에서 카메라를 이용한 라인 디텍팅을 통해 자율주행을 하는것을 목표로 한다.
